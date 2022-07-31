@@ -1,0 +1,100 @@
+    body {
+		background-color: #006400;
+	}
+h1{
+		color: #436EEE;
+		text-decoration: underline;
+		text-transform: uppercase;
+		font-size:50px font-style:Verdana;text-align:center; }
+	.imagentitulo{text-align:center}
+	span.historia{color:#FF6347;text-transform: capitalize;font-size: 20px;font-weight: bold;}
+	span.curiosidades{color:#FF6347;text-transform: capitalize;font-size: 20px;font-weight: bold;}
+	span.aparicionentvycine{color:#FF6347;text-transform: capitalize;font-size: 20px;font-weight: bold;}
+	h2 { color: white;
+		background: red;text-align: center;
+	} 
+	h2{ color: white;
+		background: red;text-align: center;}
+	h2{ color: white;
+		background: red;text-align: center;}
+	h1{
+		color: #436EEE;
+		text-decoration: underline;
+		text-transform: uppercase;
+		font-size:50px font-style:Verdana;text-align:center; }
+	.videotitulo{text-align:center}
+	h1{
+		color: #436EEE;
+		text-decoration: underline;
+		text-transform: uppercase;
+		font-size:50px font-style:Verdana;text-align:center; }
+	.videotitulo{text-align:center}
+	
+	h1 {
+		border-width: thick;
+		border-style: solid;
+		border-color: gold;
+	}
+
+	h2 {
+		border-width: 20px;
+		border-style: outset;
+		border-color: red;
+	}
+
+	p {
+		border-width: 20px;
+		border-style: groove;
+		border-color: blue;
+	}
+	a:link {
+		color:#FF0000;
+	}
+
+	a:visited {
+		color:#99FF33;
+		text-decoration:none;
+	}
+	a:hover {
+		text-transform: uppercase;
+		font-weight:bold;
+		color:	#6600FF;
+		background-color:#CCFF66;
+	}
+	h1{text-align: center;
+    text-transform: capitalize;}
+#formulario ul { list-style-type: none; margin: 0; padding: 0;}
+#formulario li { list-style-type: none; margin: 0; padding: 0;margin-bottom: 3px}
+#formulario label {
+    width: 150px;
+    font-weight: bold;
+    margin-top: 3px;
+    float:left;
+    text-align: right;
+    padding-right:15px;
+}
+#formulario{background-color: #006400;
+width:50%;
+margin-left: 25%;
+margin-right: 25%;
+padding-top: 50px;
+padding-bottom: 50px;
+border-style: solid;
+border-color: #006400;
+border-width: 5px;
+}
+.videotitulo{text-align:center}
+.videotitulo{text-align:center}
+.videotitulo{text-align:center}
+.videotitulo{text-align:center}
+h2 { color: white;
+		background: red;text-align: center;
+	} 
+h2 { color: white;
+		background: red;text-align: center;
+	} 
+h2 { color: white;
+		background: red;text-align: center;
+	} 
+	
+	#rodape{color:#436EEE; font-size:20px text-align: center; font-style: bold;}
