@@ -4,4 +4,4 @@ Este es un proyecto utLizando las tecnologias:HTML VANILLA Y CSS de la carrera b
 
 ### :computer: Web  de Thor
 ----------------------------------
-<img src="thor-captura.png" width="500px" />
+<img src="actividad final-thor/thor-captura.png" width="500px" />
